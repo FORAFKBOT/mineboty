@@ -1,9 +1,9 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
- "name": "Your_bot_name_here",
+ "ip": "Clout4life.aternos.me",
+ "port": "61437",
+ "name": "fluffoff",
  "auto-night-skip": "false",
- "token": "Your_discord_bot_token_here",
- "channelid": "Your_discord_server_channel_id_here",
- "loginmsg": "Your_Login_message_here"
+ "token": "OTA2OTM0NTY4NjAxMzkxMTM1.YYf2ow.FURI6Ii2RL8KLOOmTQE7KuBl_EU",
+ "channelid": "906934939650490441",
+ "loginmsg": "hru"
 }
